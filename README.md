@@ -8,11 +8,9 @@
 [![Licence GPL](http://img.shields.io/badge/license-GPL-yellow.svg)](http://www.gnu.org/licenses/quick-guide-gplv3.fr.html)
 [![Documentation Status](https://readthedocs.org/projects/zds-site/badge/?version=latest)](https://readthedocs.org/projects/zds-site/?badge=latest)
 
-# Zeste de Savoir
+# Akanyaburunga
 
-Site internet communautaire codé à l'aide du framework [Django](https://www.djangoproject.com/) 1.8 et de [Python](https://www.python.org/) 2.7.
-
-[Voir l'instance en ligne](https://zestedesavoir.com).
+Akanyaburunga est un projet de Site internet communautaire codé à l'aide du framework [Django](https://www.djangoproject.com/) 1.8 et de [Python](https://www.python.org/) 2.7.
 
 
 ## Fonctionnalités implémentées
@@ -27,14 +25,9 @@ Site internet communautaire codé à l'aide du framework [Django](https://www.dj
 - Recherche
 
 
-## Fonctionnalités à venir
+## Comment démarrer une instance de Akanyaburunga?
 
-Elles sont reportées essentiellement dans le [*bug tracker*](https://github.com/zestedesavoir/zds-site/issues).
-
-
-## Comment démarrer une instance de ZdS ?
-
-### Installation d'une version locale de ZdS
+### Installation d'une version locale de Akanyaburunga
 
 - [Installation du backend sur Windows](http://zds-site.readthedocs.org/fr/latest/install/backend-windows-install.html)
 - [Installation du backend sur Linux](http://zds-site.readthedocs.org/fr/latest/install/backend-linux-install.html)
@@ -43,7 +36,7 @@ Elles sont reportées essentiellement dans le [*bug tracker*](https://github.com
 - [Installation de Elasticsearch](http://zds-site.readthedocs.io/fr/latest/install/install-es.html) pour gérer la recherche
 
 
-### Mettre à jour votre version locale de ZdS
+### Mettre à jour votre version locale de Akanyaburunga
 
 Après avoir mis à jour votre dépôt, vous devez exécuter les commandes suivantes (depuis la racine de votre projet) pour mettre à jour les dépendances.
 
@@ -114,6 +107,5 @@ En contribuant, vous vous engagez à respecter le [Code de Conduite Contributeur
 - [Comment déployer ZDS sur un serveur de production ?](http://zds-site.readthedocs.org/fr/latest/install/deploy-in-production.html)
 - [Comment contribuer et conseils de développement](CONTRIBUTING.md)
 - [Comment contribuer : comprendre comment suivre le workflow (sur zds)](http://zestedesavoir.com/forums/sujet/324/comment-contribuer-comprendre-comment-suivre-le-workflow/)
-- [Les détails du workflow utilisé sur Zeste de Savoir](http://zds-site.readthedocs.org/fr/latest/workflow.html)
 
-Zeste de Savoir est basé sur un fork de [Progdupeupl](https://pdp.microjoe.org) ([voir le dépôt Git](https://github.com/progdupeupl/pdp_website)).
+Akanyaburunga est basé sur un fork de ZDS ([voir le dépôt Git](https://github.com/zestedesavoir/zds-site))
